@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/env_gia9_bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/gia9_inf_telegram_bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/python-getting-started" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sql_gia9_bot" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vk_gia9_bot" vcs="Git" />
+  </component>
+</project>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a3a57bf-1038-4056-a2cf-cbaf606b0549" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/env_gia9_bot/requiremets.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/gia9_inf_telegram_bot/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/gia9_inf_telegram_bot/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gia9_inf_telegram_bot/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/gia9_inf_telegram_bot/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gia9_inf_telegram_bot/db/inf9gia.db" beforeDir="false" afterPath="$PROJECT_DIR$/gia9_inf_telegram_bot/db/inf9gia.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/SQLighter.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/SQLighter.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/bin/activate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/bin/activate.csh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/bin/activate.fish" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/bin/activate.fish" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/bin/easy_install" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/bin/easy_install" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/bin/easy_install-3.6" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/bin/easy_install-3.6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/bin/pip" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/bin/pip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/bin/pip3" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/bin/pip3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/bin/pip3.6" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/bin/pip3.6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/bin/python-config" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/bin/python-config" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/bin/wheel" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/bin/wheel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/bot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/db/inf9gia.db" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/db/inf9gia.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sql_gia9_bot/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/sql_gia9_bot/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vk_gia9_bot/MySQL.py" beforeDir="false" afterPath="$PROJECT_DIR$/vk_gia9_bot/MySQL.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vk_gia9_bot/bot_whook.py" beforeDir="false" afterPath="$PROJECT_DIR$/vk_gia9_bot/bot_whook.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vk_gia9_bot/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/vk_gia9_bot/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vk_gia9_bot/db/inf9gia.db" beforeDir="false" afterPath="$PROJECT_DIR$/vk_gia9_bot/db/inf9gia.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vk_gia9_bot/img/users/690901_result.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vk_gia9_bot/img/users/690901_stat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vk_gia9_bot/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/vk_gia9_bot/utils.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vk_gia9_bot/vk_bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/vk_gia9_bot/vk_bot.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/sql_gia9_bot/bot.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1923">
+              <caret line="210" column="27" lean-forward="true" selection-start-line="210" selection-start-column="27" selection-end-line="210" selection-end-column="27" />
+              <folding>
+                <element signature="e#557#572#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/sql_gia9_bot" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="43" />
+    <option name="width" value="1235" />
+    <option name="height" value="737" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="gia9_inf_bot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gia9_inf_bot" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="gia9_inf_bot" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gia9_inf_bot" type="462c0819:PsiDirectoryNode" />
+              <item name="sql_gia9_bot" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a3a57bf-1038-4056-a2cf-cbaf606b0549" name="Default Changelist" comment="" />
+      <created>1544810371423</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544810371423</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="43" width="1235" height="737" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24958813" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sql_gia9_bot/bot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1923">
+          <caret line="210" column="27" lean-forward="true" selection-start-line="210" selection-start-column="27" selection-end-line="210" selection-end-column="27" />
+          <folding>
+            <element signature="e#557#572#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
